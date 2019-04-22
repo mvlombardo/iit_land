@@ -1,0 +1,13 @@
++++
+title = "EU-AIMS Longitudinal European Autism Project (LEAP): the autism twin cohort"
+date = 2018-04-01
+authors = ["Johan Isaksson", "Kristiina Tammimies", "Janina Neufeld", "Élodie Cauvet", "Karl Lundin", "Jan K. Buitelaar", "Eva Loth", "Declan G. M. Murphy", "Will Spooren", "Sven Bölte", "Jumana Ahmad", "Sara Ambrosino", "Bonnie Auyeung", "Tobias Banaschewski", "Simon Baron-Cohen", "Sarah Baumeister", "Christian Beckmann", "Thomas Bourgeron", "Carsten Bours", "Michael Brammer", "Daniel Brandeis", "Claudia Brogna", "Yvette de Bruijn", "Bhismadev Chakrabarti", "Tony Charman", "Daisy Crawley", "Ineke Cornelissen", "Flavio Dell’ Acqua", "Guillaume Dumas", "Sarah Durston", "Christine Ecker", "Vincent Frouin", "Pilar Garcés", "David Goyard", "Lindsay Ham", "Hannah Hayward", "Joerg Hipp", "Rosemary J. Holt", "Mark H. Johnson", "Emily J. H. Jones", "Prantik Kundu", "Meng-Chuan Lai", "Xavier Liogier D’ardhuy", "**Michael V. Lombardo**", "David J. Lythgoe", "René Mandl", "Luke Mason", "Andreas Meyer-Lindenberg", "Carolin Moessnang", "Nico Mueller", "Laurence O’Dwyer", "Marianne Oldehinkel", "Bob Oranje", "Gahan Pandina", "Antonio M. Persico", "Barbara Ruggeri", "Amber Ruigrok", "Jessica Sabet", "Roberto Sacco", "Antonia San José Cáceres", "Emily Simonoff", "Julian Tillmann", "Roberto Toro", "Heike Tost", "Jack Waldman", "Steve C. R. Williams", "Caroline Wooldridge", "Marcel P. Zwiers", "the EU-AIMS LEAP group"]
+publication_types = ["2"]
+abstract = "EU-AIMS is the largest European research program aiming to identify stratification biomarkers and novel interventions for autism spectrum disorder (ASD). Within the program, the Longitudinal European Autism Project (LEAP) has recruited and comprehensively phenotyped a rare sample of 76 monozygotic and dizygotic twins, discordant, or concordant for ASD plus 30 typically developing twins. The aim of this letter is to complete previous descriptions of the LEAP case-control sample, clinically characterize, and investigate the suitability of the sample for ASD twin-control analyses purposes and share some ‘lessons learnt.’ Among the twins, a diagnosis of ASD is associated with increased symptom levels of ADHD, higher rates of intellectual disability, and lower family income. For the future, we conclude that the LEAP twin cohort offers multiple options for analyses of genetic and shared and non-shared environmental factors to generate new hypotheses for the larger cohort of LEAP singletons, but particularly cross-validate and refine evidence from it."
+featured = false
+publication = "*Molecular Autism*"
+tags = ["lombardo mv"]
+url_pdf = "https://doi.org/10.1186/s13229-018-0212-x"
+doi = "10.1186/s13229-018-0212-x"
++++
+

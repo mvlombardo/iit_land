@@ -1,0 +1,12 @@
++++
+title = "Neural self-representation in autistic women and association with 'compensatory camouflaging'"
+date = 2018-10-01
+authors = ["Meng-Chuan Lai", "**Michael V. Lombardo**", "Bhismadev Chakrabarti", "Amber Nv Ruigrok", "Edward T. Bullmore", "John Suckling", "Bonnie Auyeung", "Francesca Happé", "Peter Szatmari", "Simon Baron-Cohen", "MRC AIMS Consortium"]
+publication_types = ["2"]
+abstract = "Prior work has revealed sex/gender-dependent autistic characteristics across behavioural and neural/biological domains. It remains unclear whether and how neural sex/gender differences are related to behavioural sex/gender differences in autism. Here, we examined whether atypical neural responses during mentalizing and self-representation are sex/gender-dependent in autistic adults and explored whether 'camouflaging' (acting as if behaviourally neurotypical) is associated with sex/gender-dependent neural responses. In total, N = 119 adults (33 typically developing males, 29 autistic males, 29 typically developing females and 28 autistic females) participated in a task-related functional magnetic resonance imaging paradigm to assess neural activation within right temporo-parietal junction and ventromedial prefrontal cortex during mentalizing and self-representation. Camouflaging in autism was quantified as the discrepancy between extrinsic behaviour in social-interpersonal contexts and intrinsic status. While autistic men showed hypoactive right temporo-parietal junction mentalizing and ventromedial prefrontal cortex self-representation responses compared to typically developing men, such neural responses in autistic women were not different from typically developing women. In autistic women only, increasing camouflaging was associated with heightened ventromedial prefrontal cortex self-representation response. There is a lack of impaired neural self-representation and mentalizing in autistic women compared to typically developing women. Camouflaging is heightened in autistic women and may relate to neural self-representation response. These results reveal brain-behaviour relations that help explain sex/gender-heterogeneity in social brain function in autism."
+featured = false
+publication = "*Autism: The International Journal of Research and Practice*"
+tags = ["adult", "autism", "camouflaging", "compensation", "functional magnetic resonance imaging", "gender", "heterogeneity", "lombardo mv", "mentalizing", "self", "sex"]
+doi = "10.1177/1362361318807159"
++++
+

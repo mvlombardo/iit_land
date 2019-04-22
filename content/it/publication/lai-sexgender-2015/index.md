@@ -1,0 +1,12 @@
++++
+title = "Sex/gender differences and autism: setting the scene for future research"
+date = 2015-01-01
+authors = ["Meng-Chuan Lai", "**Michael V. Lombardo**", "Bonnie Auyeung", "Bhismadev Chakrabarti", "Simon Baron-Cohen"]
+publication_types = ["2"]
+abstract = "OBJECTIVE: The relationship between sex/gender differences and autism has attracted a variety of research ranging from clinical and neurobiological to etiological, stimulated by the male bias in autism prevalence. Findings are complex and do not always relate to each other in a straightforward manner. Distinct but interlinked questions on the relationship between sex/gender differences and autism remain underaddressed. To better understand the implications from existing research and to help design future studies, we propose a 4-level conceptual framework to clarify the embedded themes. METHOD: We searched PubMed for publications before September 2014 using search terms \"'sex OR gender OR females' AND autism.\" A total of 1,906 articles were screened for relevance, along with publications identified via additional literature reviews, resulting in 329 articles that were reviewed. RESULTS: Level 1, \"Nosological and diagnostic challenges,\" concerns the question, \"How should autism be defined and diagnosed in males and females?\" Level 2, \"Sex/gender-independent and sex/gender-dependent characteristics,\" addresses the question, \"What are the similarities and differences between males and females with autism?\" Level 3, \"General models of etiology: liability and threshold,\" asks the question, \"How is the liability for developing autism linked to sex/gender?\" Level 4, \"Specific etiological-developmental mechanisms,\" focuses on the question, \"What etiological-developmental mechanisms of autism are implicated by sex/gender and/or sexual/gender differentiation?\" CONCLUSIONS: Using this conceptual framework, findings can be more clearly summarized, and the implications of the links between findings from different levels can become clearer. Based on this 4-level framework, we suggest future research directions, methodology, and specific topics in sex/gender differences and autism."
+featured = false
+publication = "*Journal of the American Academy of Child and Adolescent Psychiatry*"
+tags = ["autism", "Autistic Disorder", "etiology", "Female", "gender", "Humans", "lombardo mv", "Male", "nosology", "sex", "Sex Characteristics"]
+doi = "10.1016/j.jaac.2014.10.003"
++++
+

@@ -1,0 +1,13 @@
++++
+title = "Abnormal functional activation and maturation of ventromedial prefrontal cortex and cerebellum during temporal discounting in autism spectrum disorder"
+date = 2017-01-01
+authors = ["Clodagh M. Murphy", "Anastasia Christakou", "Vincent Giampietro", "Michael Brammer", "Eileen M. Daly", "Christine Ecker", "Patrick Johnston", "Debbie Spain", "Dene M. Robertson", "**MRC AIMS Consortium**", "Declan G. Murphy", "Katya Rubia"]
+publication_types = ["2"]
+abstract = "People with autism spectrum disorder (ASD) have poor decision-making and temporal foresight. This may adversely impact on their everyday life, mental health, and productivity. However, the neural substrates underlying poor choice behavior in people with ASD, or its’ neurofunctional development from childhood to adulthood, are unknown. Despite evidence of atypical structural brain development in ASD, investigation of functional brain maturation in people with ASD is lacking. This cross-sectional developmental fMRI study investigated the neural substrates underlying performance on a temporal discounting (TD) task in 38 healthy (11–35 years old) male adolescents and adults with ASD and 40 age, sex, and IQ-matched typically developing healthy controls. Most importantly, we assessed group differences in the neurofunctional maturation of TD across childhood and adulthood. Males with ASD had significantly poorer task performance and significantly lower brain activation in typical regions that mediate TD for delayed choices, in predominantly right hemispheric regions of ventrolateral/dorsolateral prefrontal cortices, ventromedial prefrontal cortex, striatolimbic regions, and cerebellum. Importantly, differential activation in ventromedial frontal cortex and cerebellum was associated with abnormal functional brain maturation; controls, in contrast to people with ASD, showed progressively increasing activation with increasing age in these regions; which furthermore was associated with performance measures and clinical ASD measures (stereotyped/restricted interests). Findings provide first cross-sectional evidence that reduced activation of TD mediating brain regions in people with ASD during TD is associated with abnormal functional brain development in these regions between childhood and adulthood, and this is related to poor task performance and clinical measures of ASD. Hum Brain Mapp 38:5343–5355, 2017. © 2017 Wiley Periodicals, Inc."
+featured = false
+publication = "*Human Brain Mapping*"
+tags = ["autism", "brain maturation", "fMRI", "fronto-cerebellum", "lombardo mv", "temporal discounting"]
+url_pdf = "https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.23718"
+doi = "10.1002/hbm.23718"
++++
+

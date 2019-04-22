@@ -1,0 +1,12 @@
++++
+title = "Relationship Between Surface-Based Brain Morphometric Measures and Intelligence in Autism Spectrum Disorders: Influence of History of Language Delay"
+date = 2015-10-01
+authors = ["Joana Bisol Balardin", "João Ricardo Sato", "Gilson Vieira", "Yeu Feng", "Eileen Daly", "Clodagh Murphy", "**MRC AIMS Consortium**", "Declan Murphy", "Christine Ecker"]
+publication_types = ["2"]
+abstract = "Autism spectrum disorders (ASD) are a group of conditions that show abnormalities in the neuroanatomy of multiple brain regions. The variability in the development of intelligence and language among individuals on the autism spectrum has long been acknowledged, but it remains unknown whether these differences impact on the neuropathology of ASD. In this study, we aimed to compare associations between surface-based regional brain measures and general intelligence (IQ) scores in ASD individuals with and without a history of language delay. We included 64 ASD adults of normal intelligence (37 without a history of language delay and 27 with a history of language delay and 80 neurotypicals). Regions with a significant association between verbal and nonverbal IQ and measures of cortical thickness (CT), surface area, and cortical volume were first identified in the combined sample of individuals with ASD and controls. Thicker dorsal frontal and temporal cortices, and thinner lateral orbital frontal and parieto-occipital cortices were associated with greater and lower verbal IQ scores, respectively. Correlations between cortical volume and verbal IQ were observed in similar regions as revealed by the CT analysis. A significant difference between ASD individuals with and without a history of language delay in the association between CT and verbal IQ was evident in the parieto-occipital region. These results indicate that ASD subgroups defined on the basis of differential language trajectories in childhood can have different associations between verbal IQ and brain measures in adulthood despite achieving similar levels of cognitive performance."
+featured = false
+publication = "*Autism Research: Official Journal of the International Society for Autism Research*"
+tags = ["Adult", "Asperger syndrome", "autism", "Autism Spectrum Disorder", "Brain", "brain anatomy", "Female", "Humans", "intelligence", "Intelligence", "Language Development Disorders", "lombardo mv", "Magnetic Resonance Imaging", "Male", "Young Adult"]
+doi = "10.1002/aur.1470"
++++
+

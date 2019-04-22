@@ -1,0 +1,12 @@
++++
+title = "Imaging sex/gender and autism in the brain: Etiological implications"
+date = 2017-01-01
+authors = ["Meng-Chuan Lai", "Jason P. Lerch", "Dorothea L. Floris", "Amber N. V. Ruigrok", "Alexa Pohl", "**Michael V. Lombardo**", "Simon Baron-Cohen"]
+publication_types = ["2"]
+abstract = "The male preponderance in autism prevalence has brought together the disparate topics of sex/gender and autism research. Two directions of neuroimaging studies on the relationships between sex/gender and autism may inform male-specific risk mechanisms and female-specific protective mechanisms of autism. First, we review how sex/gender moderates autism-related brain changes and how this informs general models of autism etiology. Better-powered human neuroimaging studies suggest that the brain characteristics of autism are qualitatively, rather than simply quantitatively, different between males and females. However, age and comorbidities might substantially moderate the pattern of differences. Second, we review how the relationship between autism-related brain changes (separately in males and females) and normative brain sex/gender differences informs specific etiological-developmental mechanisms. Both human and animal studies converge to indicate that the brain characteristics of autism are partly associated with normative brain sex/gender differences, suggesting convergence or overlap between the mechanisms leading to and modifying the development of autism and the mechanisms underlying sex differentiation and/or gender socialization. Future animal work needs to investigate sex differences in rodent mutants modeling autism-relevant genes and environmental exposures. Future human work needs to address the substantial phenotypic and etiological heterogeneity of autism and to focus on longitudinal neuroimaging studies (from early development) on the developmental trajectories of sex/gender-differential neural characteristics of autism. Combining animal and human work links up the causal chain from etiological factors, brain and physical development, to phenotypes. These together help delineate the different roles of sex and gender in relation to risk vs. protective mechanisms. © 2016 Wiley Periodicals, Inc."
+featured = false
+publication = "*Journal of Neuroscience Research*"
+tags = ["Aging", "animal model", "autism", "Autistic Disorder", "brain", "Brain", "etiology", "Female", "gender", "Humans", "lombardo mv", "Male", "neuroimaging", "Neuroimaging", "sex", "Sex Characteristics"]
+doi = "10.1002/jnr.23948"
++++
+

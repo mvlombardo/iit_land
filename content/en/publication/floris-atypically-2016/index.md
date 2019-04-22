@@ -1,0 +1,12 @@
++++
+title = "Atypically rightward cerebral asymmetry in male adults with autism stratifies individuals with and without language delay"
+date = 2016-01-01
+authors = ["Dorothea L. Floris", "Meng-Chuan Lai", "Tibor Auer", "**Michael V. Lombardo**", "Christine Ecker", "Bhismadev Chakrabarti", "Sally J. Wheelwright", "Edward T. Bullmore", "Declan G. M. Murphy", "Simon Baron-Cohen", "John Suckling"]
+publication_types = ["2"]
+abstract = "In humans, both language and fine motor skills are associated with left-hemisphere specialization, whereas visuospatial skills are associated with right-hemisphere specialization. Individuals with autism spectrum conditions (ASC) show a profile of deficits and strengths that involves these lateralized cognitive functions. Here we test the hypothesis that regions implicated in these functions are atypically rightward lateralized in individuals with ASC and, that such atypicality is associated with functional performance. Participants included 67 male, right-handed adults with ASC and 69 age- and IQ-matched neurotypical males. We assessed group differences in structural asymmetries in cortical regions of interest with voxel-based analysis of grey matter volumes, followed by correlational analyses with measures of language, motor and visuospatial skills. We found stronger rightward lateralization within the inferior parietal lobule and reduced leftward lateralization extending along the auditory cortex comprising the planum temporale, Heschl's gyrus, posterior supramarginal gyrus, and parietal operculum, which was more pronounced in ASC individuals with delayed language onset compared to those without. Planned correlational analyses showed that for individuals with ASC, reduced leftward asymmetry in the auditory region was associated with more childhood social reciprocity difficulties. We conclude that atypical cerebral structural asymmetry is a potential candidate neurophenotype of ASC."
+featured = false
+publication = "*Human Brain Mapping*"
+tags = ["Acoustic Stimulation", "Adolescent", "Adult", "autism", "Autistic Disorder", "Brain Mapping", "Cerebral Cortex", "Cognition Disorders", "cortical asymmetry", "Functional Laterality", "Humans", "Image Processing", "Computer-Assisted", "language delay", "Language Development Disorders", "lateralization", "lombardo mv", "Magnetic Resonance Imaging", "Male", "Neuropsychological Tests", "Photic Stimulation", "Psychiatric Status Rating Scales", "Space Perception", "Statistics as Topic", "volumetric MRI", "Young Adult"]
+doi = "10.1002/hbm.23023"
++++
+

@@ -1,0 +1,12 @@
++++
+title = "Individual differences in brain structure underpin empathizing-systemizing cognitive styles in male adults"
+date = 2012-07-01
+authors = ["Meng-Chuan Lai", "**Michael V. Lombardo**", "Bhismadev Chakrabarti", "Christine Ecker", "Susan A. Sadek", "Sally J. Wheelwright", "Declan G. M. Murphy", "John Suckling", "Edward T. Bullmore", "MRC AIMS Consortium", "Simon Baron-Cohen"]
+publication_types = ["2"]
+abstract = "Individual differences in cognitive style can be characterized along two dimensions: 'systemizing' (S, the drive to analyze or build 'rule-based' systems) and 'empathizing' (E, the drive to identify another's mental state and respond to this with an appropriate emotion). Discrepancies between these two dimensions in one direction (StextgreaterE) or the other (EtextgreaterS) are associated with sex differences in cognition: on average more males show an StextgreaterE cognitive style, while on average more females show an EtextgreaterS profile. The neurobiological basis of these different profiles remains unknown. Since individuals may be typical or atypical for their sex, it is important to move away from the study of sex differences and towards the study of differences in cognitive style. Using structural magnetic resonance imaging we examined how neuroanatomy varies as a function of the discrepancy between E and S in 88 adult males from the general population. Selecting just males allows us to study discrepant E-S profiles in a pure way, unconfounded by other factors related to sex and gender. An increasing StextgreaterE profile was associated with increased gray matter volume in cingulate and dorsal medial prefrontal areas which have been implicated in processes related to cognitive control, monitoring, error detection, and probabilistic inference. An increasing EtextgreaterS profile was associated with larger hypothalamic and ventral basal ganglia regions which have been implicated in neuroendocrine control, motivation and reward. These results suggest an underlying neuroanatomical basis linked to the discrepancy between these two important dimensions of individual differences in cognitive style."
+featured = false
+publication = "*NeuroImage*"
+tags = ["Adolescent", "Adult", "Brain", "Brain Mapping", "Cognition", "Empathy", "Humans", "Image Interpretation", "Computer-Assisted", "lombardo mv", "Magnetic Resonance Imaging", "Male", "Sex Characteristics", "Young Adult"]
+doi = "10.1016/j.neuroimage.2012.03.018"
++++
+

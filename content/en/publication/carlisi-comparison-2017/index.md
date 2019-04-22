@@ -1,0 +1,13 @@
++++
+title = "Comparison of neural substrates of temporal discounting between youth with autism spectrum disorder and with obsessive-compulsive disorder"
+date = 2017-10-01
+authors = ["C. O. Carlisi", "L. Norman", "C. M. Murphy", "A. Christakou", "K. Chantiluke", "V. Giampietro", "A. Simmons", "M. Brammer", "D. G. Murphy", "**MRC AIMS Consortium**", "D. Mataix-Cols", "K. Rubia"]
+publication_types = ["2"]
+abstract = "Background Autism spectrum disorder (ASD) and obsessive-compulsive disorder (OCD) share abnormalities in hot executive functions such as reward-based decision-making, as measured in the temporal discounting task (TD). No studies, however, have directly compared these disorders to investigate common/distinct neural profiles underlying such abnormalities. We wanted to test whether reward-based decision-making is a shared transdiagnostic feature of both disorders with similar neurofunctional substrates or whether it is a shared phenotype with disorder-differential neurofunctional underpinnings.   Methods Age and IQ-matched boys with ASD (N = 20), with OCD (N = 20) and 20 healthy controls, performed an individually-adjusted functional magnetic resonance imaging (fMRI) TD task. Brain activation and performance were compared between groups.   Results Boys with ASD showed greater choice-impulsivity than OCD and control boys. Whole-brain between-group comparison revealed shared reductions in ASD and OCD relative to control boys for delayed-immediate choices in right ventromedial/lateral orbitofrontal cortex extending into medial/inferior prefrontal cortex, and in cerebellum, posterior cingulate and precuneus. For immediate-delayed choices, patients relative to controls showed reduced activation in anterior cingulate/ventromedial prefrontal cortex reaching into left caudate, which, at a trend level, was more decreased in ASD than OCD patients, and in bilateral temporal and inferior parietal regions.   Conclusions This first fMRI comparison between youth with ASD and with OCD, using a reward-based decision-making task, shows predominantly shared neurofunctional abnormalities during TD in key ventromedial, orbital- and inferior fronto-striatal, temporo-parietal and cerebellar regions of temporal foresight and reward processing, suggesting trans-diagnostic neurofunctional deficits."
+featured = false
+publication = "*Psychological Medicine*"
+tags = ["ASD", "fMRI", "lombardo mv", "OCD", "temporal discounting"]
+url_pdf = "https://www.cambridge.org/core/journals/psychological-medicine/article/comparison-of-neural-substrates-of-temporal-discounting-between-youth-with-autism-spectrum-disorder-and-with-obsessivecompulsive-disorder/0B44B0A6AD2CA805CFD8BCCADF767D86"
+doi = "10.1017/S0033291717001088"
++++
+
