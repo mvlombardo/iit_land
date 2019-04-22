@@ -49,7 +49,7 @@ hero_media = "iit_land_logo.pdf"
 #   label = '<a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release <!-- V --></a>'
 +++
 
-**Laboratory for Autism and Neurodevelopmental Disorders at IIT**
+**Laboratory for Autism and Neurodevelopmental Disorders**
 
-Understanding heterogeneity and early developmental mechanisms behind autism and atypical neurodevelopment.
+Understanding heterogeneity and early developmental mechanisms behind autism and atypical neurodevelopment
 

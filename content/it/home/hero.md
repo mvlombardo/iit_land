@@ -49,6 +49,6 @@ hero_media = "iit_land_logo.pdf"
 #   label = '<a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release <!-- V --></a>'
 +++
 
-**Laboratorio per l'autismo e i disturbi del Neurosviluppo all'IIT**
+**Laboratorio per l'autismo e i disturbi del Neurosviluppo**
 
-Comprensione dell'eterogeneità e dei primi meccanismi di sviluppo dietro l'autismo e il neurosviluppo atipico.
+Comprensione dell'eterogeneità e dei primi meccanismi di sviluppo dietro l'autismo e il neurosviluppo atipico

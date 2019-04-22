@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include autism, neurodevelopmental disorders, and precision medicine.
+bio: Principal Investigator, Laboratory for Autism and Neurodevelopmental Disorders, Istituto Italiano di Tecnologia (IIT)
 education:
   courses:
   - course: PhD in Psychiatry
