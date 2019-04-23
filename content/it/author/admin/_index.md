@@ -39,4 +39,4 @@ user_groups:
 - Principal Investigator
 ---
 
-Sono un ricercatore senior presso il Center for Cognitive Neuroscience and Cognitive Systems [(CNCS)] (https://cncs.iit.it) presso [Istituto Italiano di Tecnologia (IIT)] (https: //www.iit .it) a Rovereto, in Italia. Dirigo il laboratorio per l'autismo e i disordini del neurosviluppo (LAND). Il programma di ricerca traslazionale di IIT LAND è incentrato sulla comprensione dell'eterogeneità e dei meccanismi di sviluppo precoce coinvolti nell'autismo e nel neurosviluppo atipico.
+Sono un ricercatore senior presso il Center for Neuroscience and Cognitive Systems [(CNCS)] (https://cncs.iit.it) presso [Istituto Italiano di Tecnologia (IIT)] (https: //www.iit .it) a Rovereto, in Italia. Dirigo il laboratorio per l'autismo e i disordini del neurosviluppo (LAND). Il programma di ricerca traslazionale di IIT LAND è incentrato sulla comprensione dell'eterogeneità e dei meccanismi di sviluppo precoce coinvolti nell'autismo e nel neurosviluppo atipico.

@@ -40,4 +40,4 @@ user_groups:
 
 ---
 
-I'm a Senior Researcher at the Center for Cognitive Neuroscience and Cognitive Systems [(CNCS)](https://cncs.iit.it) at the [Istituto Italiano di Tecnologia (IIT)](https://www.iit.it) in Rovereto, Italy. I direct the Laboratory for Autism and Neurodevelopmental Disorders (LAND). IIT LAND's translational research program is focused on understanding heterogeneity and early developmental mechanisms involved in autism and atypical neurodevelopment.   
+I'm a Senior Researcher at the Center for Neuroscience and Cognitive Systems [(CNCS)](https://cncs.iit.it) at the [Italian Institute of Technology (IIT)](https://www.iit.it) in Rovereto, Italy. I direct the Laboratory for Autism and Neurodevelopmental Disorders (LAND). IIT LAND's translational research program is focused on understanding heterogeneity and early developmental mechanisms involved in autism and atypical neurodevelopment.   
