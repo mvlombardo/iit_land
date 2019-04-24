@@ -49,7 +49,7 @@ hero_media = "iit_land_logo.png"
 #   label = '<a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release <!-- V --></a>'
 +++
 
-**Laboratory for Autism and Neurodevelopmental Disorders**
+**Laboratory for Autism and Neurodevelopmental Disorders (LAND)**
 
-Understanding heterogeneity and early developmental mechanisms behind autism and atypical neurodevelopment
+Understanding `heterogeneity` and `early developmental mechanisms` behind `autism` and `neurodevelopmental disorders`
 

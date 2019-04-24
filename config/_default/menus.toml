@@ -16,12 +16,12 @@
 [[main]]
   name = "People"
   url = "#people"
-  weight = 20
+  weight = 30
 
-#[[main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 30
+[[main]]
+  name = "Research"
+  url = "#research"
+  weight = 15
 
 [[main]]
   name = "Publications"
@@ -31,7 +31,7 @@
 [[main]]
   name = "News"
   url = "#news"
-  weight = 20
+  weight = 50
 
 #[[main]]
 #  name = "Tutorials"

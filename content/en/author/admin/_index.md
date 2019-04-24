@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: Principal Investigator, Laboratory for Autism and Neurodevelopmental Disorders, Istituto Italiano di Tecnologia (IIT)
+bio: Principal Investigator, Laboratory for Autism and Neurodevelopmental Disorders, Italian Institute of Technology (IIT)
 education:
   courses:
   - course: PhD in Psychiatry
@@ -40,4 +40,4 @@ user_groups:
 
 ---
 
-I'm a Senior Researcher at the Center for Neuroscience and Cognitive Systems [(CNCS)](https://cncs.iit.it) at the [Italian Institute of Technology (IIT)](https://www.iit.it) in Rovereto, Italy. I direct the Laboratory for Autism and Neurodevelopmental Disorders (LAND). IIT LAND's translational research program is focused on understanding heterogeneity and early developmental mechanisms involved in autism and atypical neurodevelopment.   
+I direct the `Laboratory for Autism and Neurodevelopmental Disorders (LAND)` based in the [`Center for Neuroscience and Cognitive Systems (CNCS)`](https://cncs.iit.it) at the [`Italian Institute of Technology (IIT)`](https://www.iit.it) in Rovereto, Italy. IIT LAND's translational research program is focused on understanding `heterogeneity` and `early developmental mechanisms` involved in `autism` and atypical neurodevelopment.   
