@@ -13,7 +13,8 @@ image:
 summary: The complicated tango between excitation and inhibition in the brain.
 tags:
 - Mechanisms
-title: Noise
+- Heterogeneity
+title: Neural Noise
 url_code: ""
 url_pdf: ""
 url_slides: ""

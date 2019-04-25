@@ -15,7 +15,7 @@ tags:
 - Mechanisms
 - Heterogeneity
 - Development
-title: Connectome
+title: Connectomics
 url_code: ""
 url_pdf: ""
 url_slides: ""

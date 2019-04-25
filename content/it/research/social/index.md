@@ -10,7 +10,7 @@ image:
 #   name: Follow
 #   url: https://twitter.com/mvlombardo
 # slides: example-slides
-summary: Brains interacting with other brains.
+summary: Brains interacting with other brains in context.
 tags:
 - Mechanisms
 - Heterogeneity
