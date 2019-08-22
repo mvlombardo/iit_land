@@ -9,7 +9,8 @@ title = ""
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 #hero_media = "hero-academic.png"
-hero_media = "iit_land_logo.png"
+# hero_media = "iit_land_logo.png"
+hero_media = "LAND_T1.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
