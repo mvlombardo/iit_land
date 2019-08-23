@@ -40,4 +40,4 @@ user_groups:
 
 ---
 
-I direct the `Laboratory for Autism and Neurodevelopmental Disorders (LAND)` based in the [`Center for Neuroscience and Cognitive Systems (CNCS)`](https://cncs.iit.it) at the [`Italian Institute of Technology (IIT)`](https://www.iit.it) in Rovereto, Italy. IIT LAND's translational research program is focused on understanding `heterogeneity` and `early developmental mechanisms` involved in `autism` and atypical neurodevelopment.   
+I am PI of the [`Neurodevelopmental Disorders`](https://www.iit.it/research/lines/neurodevelopmental-disorders) research line at the [`Italian Institute of Technology (IIT)`](https://www.iit.it) and direct the `Laboratory for Autism and Neurodevelopmental Disorders (LAND)` based in the [`Center for Neuroscience and Cognitive Systems (CNCS)`](https://cncs.iit.it) in Rovereto, Italy. IIT LAND's translational research program is focused on understanding `heterogeneity` and `early developmental mechanisms` involved in `autism` and atypical neurodevelopment.   

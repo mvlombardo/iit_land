@@ -6367,11 +6367,19 @@
   </url>
   
   <url>
+    <loc>/author/elenabusuoli/</loc>
+  </url>
+  
+  <url>
     <loc>/author/kpierce/</loc>
   </url>
   
   <url>
     <loc>/author/mclai/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/natashabertelsen/</loc>
   </url>
   
   <url>
@@ -6384,6 +6392,10 @@
   
   <url>
     <loc>/author/stavrostrakoshis/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/veronicamandelli/</loc>
   </url>
   
   <url>
@@ -6421,12 +6433,22 @@
   </url>
   
   <url>
+    <loc>/authors/elenabusuoli/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/kpierce/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/mclai/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/natashabertelsen/</loc>
     <priority>0</priority>
   </url>
   
@@ -6442,6 +6464,11 @@
   
   <url>
     <loc>/authors/stavrostrakoshis/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/veronicamandelli/</loc>
     <priority>0</priority>
   </url>
   

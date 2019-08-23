@@ -22,7 +22,6 @@ twitter = ""
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-#logo = "iit_land_logo.png"
 logo = "LAND_T1.png"
 
 # Enable global source code highlighting? true/false
