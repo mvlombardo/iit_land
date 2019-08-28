@@ -16,10 +16,10 @@ name: Natasha Bertelsen
 social:
 # - icon: envelope
 #   icon_pack: fas
-#   link:
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/natbertelsen
+#   link: '#contact'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/natannbertelsen
 # - icon: google-scholar
 #   icon_pack: ai
 #   link:

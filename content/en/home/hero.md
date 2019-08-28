@@ -43,6 +43,12 @@ hero_media = "LAND_T1.png"
 # [cta_alt]
 #   url = "https://sourcethemes.com/academic/"
 #   label = "View Documentation"
+#
+[cta]
+  url = "https://twitter.com/LAND_IIT"
+  label = "@LAND_IIT on Twitter"
+  icon_pack = "fab"
+  icon = "twitter"
 
 # Note. An optional note to show underneath the links.
 # [cta_note]
