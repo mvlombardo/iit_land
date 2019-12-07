@@ -7,6 +7,8 @@ email: "elenabusuoli@gmail.com"
 interests:
 - Intervention
 - Joint Attention
+- EEG
+- Eye Tracking
 name: Elena Busuoli
 # organizations:
 # - name: Laboratory of Autism and Neurodevelopmental Disorders

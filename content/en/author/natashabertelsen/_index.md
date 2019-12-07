@@ -6,7 +6,8 @@ education:
 email: "natbertelsen@gmail.com"
 interests:
 - Neuroimaging
-- MVPA
+- Connectomics
+- Gene Expression
 - MATLAB
 name: Natasha Bertelsen
 # organizations:
@@ -20,9 +21,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/natannbertelsen
-# - icon: google-scholar
-#   icon_pack: ai
-#   link:
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?hl=en&user=FZRYPSYAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/natbertelsen

@@ -5,6 +5,7 @@ bio:
 education:
 email: "veronica.mandelli93@gmail.com"
 interests:
+- Motor Development
 - Machine Learning
 - Neuroimaging
 name: Veronica Mandelli
