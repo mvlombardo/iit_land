@@ -8,7 +8,7 @@ interests:
 - Brain development
 - Social cognition
 - Action understanding
-- Neurodevelopmental Disoders
+- Neurodevelopmental Disorders
 - Eye tracking
 - EEG/MEG
 name: Eleonora Satta
