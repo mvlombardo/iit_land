@@ -34,7 +34,7 @@ Neurodevelopmental conditions such as autism are underpinned by a complex geneti
 
 [Courchesne, E., Pramparo, T.,  Gazestani, V. H., **Lombardo, M. V.**, Pierce, K., & Lewis, N. E. (2019). The ASD living biology: From cell proliferation to clinical phenotype. ***Molecular Psychiatry***, *24*, 88-107.](https://www.nature.com/articles/s41380-018-0056-y)
 
-[**Lombardo, M. V.**, et al., (2019). Sex-specific impact of prenatal androgens on social brain default mode subsystems. ***Molecular Psychiatry***.](https://www.nature.com/articles/s41380-018-0198-y)
+[**Lombardo, M. V.**, et al., (in press). Sex-specific impact of prenatal androgens on social brain default mode subsystems. ***Molecular Psychiatry***. doi:10.1038/s41380-018-0198-y.](https://www.nature.com/articles/s41380-018-0198-y)
 
 [Pramparo, T., **Lombardo, M. V.**, Campbell, K., Carter Barnes, C., Marinero, S., Solso, S., Young, J., Mayo, M., Dale, A., Ahrens-Barbeau, C., Murray, S. S., Lopez, L., Lewis, N., Pierce, K., & Courchesne, E. (2015).  Cell cycle networks link gene expression dysregulation, mutation and brain maldevelopment in autistic toddlers. ***Molecular Systems Biology***, *11*, 841.](http://msb.embopress.org/content/11/12/841)
 

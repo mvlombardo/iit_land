@@ -26,7 +26,9 @@ The brain is a multi-scale complex network. Unraveling network organization and 
 
 **Relevant Publications**
 
-[**Lombardo, M. V.**, et al., (2019). Sex-specific impact of prenatal androgens on social brain default mode subsystems. ***Molecular Psychiatry***.](https://www.nature.com/articles/s41380-018-0198-y)
+[**Lombardo, M. V.**, Eyler, L., Moore, A., Datko, M., Barnes, C. C., Cha, D., Courchesne, E., & Pierce, K. (2019). Default mode-visual network hypoconnectivity in an autism subtype with pronounced social visual engagement difficulties.. ***eLife***, *8*, e47427. doi:10.7554/eLife.47427.](https://elifesciences.org/articles/47427)
+
+[**Lombardo, M. V.**, et al., (in press). Sex-specific impact of prenatal androgens on social brain default mode subsystems. ***Molecular Psychiatry***. doi:10.1038/s41380-018-0198-y.](https://www.nature.com/articles/s41380-018-0198-y)
 
 [Bethlehem, R, A. I, **Lombardo, M. V.**, et al., (2017). Intranasal oxytocin enhances intrinsic corticostriatal functional connectivity in women. ***Translational Psychiatry***, *7*, e1099.](https://www.nature.com/articles/tp201772)
 

@@ -24,7 +24,9 @@ Patients with autism are heterogeneous at multiple levels of analysis. One of th
 
 **Relevant Publications**
 
-[**Lombardo, M. V.**, Lai, M. C., & Baron-Cohen, S. (in press). Big data approaches to decomposing heterogeneity across the autism spectrum. ***Molecular Psychiatry***. doi:10.1038/s41380-018-0321-0.](https://www.nature.com/articles/s41380-018-0321-0)
+[**Lombardo, M. V.**, Eyler, L., Moore, A., Datko, M., Barnes, C. C., Cha, D., Courchesne, E., & Pierce, K. (2019). Default mode-visual network hypoconnectivity in an autism subtype with pronounced social visual engagement difficulties.. ***eLife***, *8*, e47427. doi:10.7554/eLife.47427.](https://elifesciences.org/articles/47427)
+
+[**Lombardo, M. V.**, Lai, M. C., & Baron-Cohen, S. (2019). Big data approaches to decomposing heterogeneity across the autism spectrum. ***Molecular Psychiatry***, *24*, 1435-1450.](https://www.nature.com/articles/s41380-018-0321-0)
 
 [**Lombardo, M. V.**, et al., (2018). Large-scale associations between the leukocyte transcriptome and BOLD responses to speech differ in autism early language outcome subtypes. ***Nature Neuroscience***, *21*, 1680-1688.](https://www.nature.com/articles/s41593-018-0281-3)
 

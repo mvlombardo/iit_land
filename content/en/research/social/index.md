@@ -26,6 +26,8 @@ Humans are born with an innate tendency to be social. Infants immediately seek o
 
 **Relevant Publications**
 
+[**Lombardo, M. V.**, Eyler, L., Moore, A., Datko, M., Barnes, C. C., Cha, D., Courchesne, E., & Pierce, K. (2019). Default mode-visual network hypoconnectivity in an autism subtype with pronounced social visual engagement difficulties.. ***eLife***, *8*, e47427. doi:10.7554/eLife.47427.](https://elifesciences.org/articles/47427)
+
 [**Lombardo, M. V.**, et al., (2016). Improving effect size estimation and statistical power with multi-echo fMRI and its impact on understanding the neural systems supporting mentalizing. ***Neuroimage***, *142*, 55-66.](https://www.sciencedirect.com/science/article/pii/S1053811916303299?via%3Dihub)
 
 [**Lombardo, M. V.**, et al., (2010). Atypical neural self-representation in autism. ***Brain***, *133*, 611-624.](https://academic.oup.com/brain/article/133/2/611/287808)
@@ -34,4 +36,4 @@ Humans are born with an innate tendency to be social. Infants immediately seek o
 
 [**Lombardo, M. V.**, et al., (2016). Unsupervised data-driven stratification of mentalizing heterogeneity in autism. ***Scientific Reports***, *6*, 35333.](https://www.nature.com/articles/srep35333)
 
-[Lai, M. C., **Lombardo, M. V.**, et al., (in press). Neural self-representation in autistic women and association with compensatory camouflaging. ***Autism***.](https://journals.sagepub.com/doi/full/10.1177/1362361318807159?fbclid=IwAR2MBIslWAEnz6l-PbSlcPB4cFhhIvM7XaQGOXQ-csOm9UR7iSiwjLfmZsk#articleShareContainer)
+[Lai, M. C., **Lombardo, M. V.**, et al., (2019). Neural self-representation in autistic women and association with compensatory camouflaging. ***Autism***, *23*, 1210-1223.](https://journals.sagepub.com/doi/full/10.1177/1362361318807159?fbclid=IwAR2MBIslWAEnz6l-PbSlcPB4cFhhIvM7XaQGOXQ-csOm9UR7iSiwjLfmZsk#articleShareContainer)
