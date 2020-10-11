@@ -28,5 +28,5 @@ social:
   link: https://github.com/landiisotta
 superuser: true
 user_groups:
-- Post-Docs
+- Alumni
 ---

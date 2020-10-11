@@ -2,7 +2,7 @@
 date: "2019-04-24"
 external_link: ""
 image:
-  caption: 
+  caption:
   focal_point: Smart
 # links:
 # - icon: twitter
@@ -32,4 +32,4 @@ Development is a key dimension that may reveal how heterogeneity manifests in au
 
 [**Lombardo, M. V.** et al., (2015). Different functional neural substrates for good and poor language outcome in autism. ***Neuron***, *86*, 567-577.](https://www.sciencedirect.com/science/article/pii/S0896627315002196)
 
-[Bethlehem, R. A. I. et al., & **Lombardo, M. V.** Normative age modeling of cortical thickness in autistic males. ***bioRxiv***.](https://www.biorxiv.org/content/10.1101/252593v3)
+[Bethlehem, R. A. I. et al., & **Lombardo, M. V.** A normative modeling approach reveals age-atypical cortical thickness in a subgroup of males with autistic spectrum disorder. ***Communications Biology***, *3*, 486.](https://www.nature.com/articles/s42003-020-01212-9)

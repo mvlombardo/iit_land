@@ -3,7 +3,7 @@ authors:
 - eleonorasatta
 bio:
 education:
-email: "satta.eleonora@gmail.com"
+email: "eleonora.satta@iit.it"
 interests:
 - Brain development
 - Social cognition

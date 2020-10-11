@@ -12,10 +12,10 @@ subtitle = ""
 #   Edit each user's `user_groups` to add them to one or more of these groups.
 user_groups = ["Post-Docs",
                "Grad Students",
-               "Collaborators"]
+               "Collaborators",
                # "Administration",
                # "Visitors",
-               # "Alumni"]
+               "Alumni"]
 
 
 [design.background]
@@ -26,11 +26,11 @@ user_groups = ["Post-Docs",
 
   # Background color.
   # color = "navy"
-  
+
   # Background gradient.
   gradient_start = "#4bb4e3"
   gradient_end = "#2b94c3"
-  
+
   # Background image.
   image = "Rovereto.jpg"  # Name of image in `static/img/`.
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.

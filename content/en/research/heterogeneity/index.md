@@ -2,7 +2,7 @@
 date: "2019-04-24"
 external_link: ""
 image:
-  caption: 
+  caption:
   focal_point: Smart
 # links:
 # - icon: twitter
@@ -23,6 +23,10 @@ url_video: ""
 Patients with autism are heterogeneous at multiple levels of analysis. One of the biggest challenges for the field is to better understand how and why heterogeneity manifest at different levels but also to attempt to connect such phenomena across levels or scales. A central theme of the lab is to isolate aspects of heterogeneity in autism and neurodevelopmental disorders that better define the mechanisms at play in different types of patients but to also better impact patients and their lives.
 
 **Relevant Publications**
+
+[Bethlehem, R. A. I. et al., & **Lombardo, M. V.** A normative modeling approach reveals age-atypical cortical thickness in a subgroup of males with autistic spectrum disorder. ***Communications Biology***, *3*, 486.](https://www.nature.com/articles/s42003-020-01212-9)
+
+[Trakoshis, S., Martinez-Canada, P., et al., & **Lombardo, M. V.** (2020). Intrinsic excitation-inhibition imbalance affects medial prefrontal cortex differently in autistic men versus women. ***eLife***, *9*, e55684.](https://elifesciences.org/articles/55684)
 
 [**Lombardo, M. V.**, Eyler, L., Moore, A., Datko, M., Barnes, C. C., Cha, D., Courchesne, E., & Pierce, K. (2019). Default mode-visual network hypoconnectivity in an autism subtype with pronounced social visual engagement difficulties.. ***eLife***, *8*, e47427. doi:10.7554/eLife.47427.](https://elifesciences.org/articles/47427)
 

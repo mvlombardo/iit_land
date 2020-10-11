@@ -25,4 +25,6 @@ In this project we investigate phenomena relevant to the `neural noise` hypothes
 
 **Relevant Publications**
 
+[Trakoshis, S., Martinez-Canada, P., et al., & **Lombardo, M. V.** (2020). Intrinsic excitation-inhibition imbalance affects medial prefrontal cortex differently in autistic men versus women. ***eLife***, *9*, e55684.](https://elifesciences.org/articles/55684)
+
 [Lai, M. C., **Lombardo, M. V.**, et al., (2010). A shift to randomness of brain oscillations in people with autism. ***Biological Psychiatry***, *68*, 1092-1099.](https://www.sciencedirect.com/science/article/pii/S0006322310007080)

@@ -26,6 +26,8 @@ Humans are born with an innate tendency to be social. Infants immediately seek o
 
 **Relevant Publications**
 
+[Trakoshis, S., Martinez-Canada, P., et al., & **Lombardo, M. V.** (2020). Intrinsic excitation-inhibition imbalance affects medial prefrontal cortex differently in autistic men versus women. ***eLife***, *9*, e55684.](https://elifesciences.org/articles/55684)
+
 [**Lombardo, M. V.**, Eyler, L., Moore, A., Datko, M., Barnes, C. C., Cha, D., Courchesne, E., & Pierce, K. (2019). Default mode-visual network hypoconnectivity in an autism subtype with pronounced social visual engagement difficulties.. ***eLife***, *8*, e47427. doi:10.7554/eLife.47427.](https://elifesciences.org/articles/47427)
 
 [**Lombardo, M. V.**, et al., (2016). Improving effect size estimation and statistical power with multi-echo fMRI and its impact on understanding the neural systems supporting mentalizing. ***Neuroimage***, *142*, 55-66.](https://www.sciencedirect.com/science/article/pii/S1053811916303299?via%3Dihub)

@@ -26,11 +26,13 @@ Many early-onset neurodevelopmental conditions, such as autism, affect mores mal
 
 [Lai, M. C., **Lombardo, M. V.**, Auyeung, B., Chakrabarti, B., & Baron-Cohen, S. (2015).  Sex/gender differences and autism:  Setting the scene for future research. ***Journal of the American Academy of Child and Adolescent Psychiatry***, *54*, 11-24.](https://www.sciencedirect.com/science/article/pii/S0890856714007254)
 
+[Trakoshis, S., Martinez-Canada, P., et al., & **Lombardo, M. V.** (2020). Intrinsic excitation-inhibition imbalance affects medial prefrontal cortex differently in autistic men versus women. ***eLife***, *9*, e55684.](https://elifesciences.org/articles/55684)
+
+[**Lombardo, M. V.**, et al., (2020). Sex-specific impact of prenatal androgens on social brain default mode subsystems. ***Molecular Psychiatry***, *25*, 2175-2188.](https://www.nature.com/articles/s41380-018-0198-y)
+
 [Lai, M. C., **Lombardo, M. V.**, Suckling, J., Ruigrok, A. N. V., Chakrabarti, B., Ecker, C., Deoni, S. C., Craig, M. C., Murphy, D. G. M., Bullmore, E. T., MRC AIMS Consortium, & Baron-Cohen, S. (2013). Biological sex affects the neurobiology of autism. ***Brain***, *136*, 2799-2815.](https://academic.oup.com/brain/article/136/9/2799/292799)
 
 [Lai, M. C., **Lombardo, M. V.**, et al., (2019). Neural self-representation in autistic women and association with compensatory camouflaging. ***Autism***, *23*, 1210-1223.](https://journals.sagepub.com/doi/full/10.1177/1362361318807159?fbclid=IwAR2MBIslWAEnz6l-PbSlcPB4cFhhIvM7XaQGOXQ-csOm9UR7iSiwjLfmZsk#articleShareContainer)
-
-[**Lombardo, M. V.**, et al., (in press). Sex-specific impact of prenatal androgens on social brain default mode subsystems. ***Molecular Psychiatry***. doi:10.1038/s41380-018-0198-y.](https://www.nature.com/articles/s41380-018-0198-y)
 
 [Lai, M. C., **Lombardo, M. V.**, Ruigrok, A. N. V., Chakrabarti, B., Auyeung, B., MRC AIMS Consortium, Szatmari, P., Happe, F., & Baron-Cohen, S. (2017). Quantifying and exploring 'camouflaging' in men and women with autism.  ***Autism***, *21*, 690-702.](https://journals.sagepub.com/doi/pdf/10.1177/1362361316671012)
 
