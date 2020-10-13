@@ -6,6 +6,9 @@ education:
 email: "andrea.vitale@iit.it"
 interests:
 - EEG
+- Oscillations
+- Multisensory Integration
+- Predictive Coding
 name: Andrea Vitale
 # organizations:
 # - name: Laboratory of Autism and Neurodevelopmental Disorders

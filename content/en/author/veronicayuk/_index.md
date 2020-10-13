@@ -8,6 +8,7 @@ interests:
 - Connectomics
 - Dynamics
 - MEG
+- Higher Cognitive Functions
 name: Veronica Yuk
 # organizations:
 # - name: Laboratory of Autism and Neurodevelopmental Disorders
