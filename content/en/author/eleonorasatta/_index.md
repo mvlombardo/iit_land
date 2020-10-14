@@ -5,17 +5,17 @@ bio:
 education:
 email: "eleonora.satta@iit.it"
 interests:
-- Brain development
-- Social cognition
-- Action understanding
-- Neurodevelopmental Disorders
+- Brain Development
+- Social Cognition
+- Action Understanding
 - Eye tracking
-- EEG/MEG
+- EEG
+- MEG
 name: Eleonora Satta
 # organizations:
 # - name: Laboratory of Autism and Neurodevelopmental Disorders
 #   url: "https://sites.google.com/site/mvlombardo/"
-# role: PhD Student
+role: Post-Doc
 social:
 # - icon: envelope
 #   icon_pack: fas

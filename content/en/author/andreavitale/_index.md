@@ -13,7 +13,7 @@ name: Andrea Vitale
 # organizations:
 # - name: Laboratory of Autism and Neurodevelopmental Disorders
 #   url: "https://sites.google.com/site/mvlombardo/"
-# role: PhD Student
+role: Post-Doc
 social:
 # - icon: envelope
 #   icon_pack: fas

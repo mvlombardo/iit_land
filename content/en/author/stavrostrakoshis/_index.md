@@ -13,7 +13,7 @@ name: Stavros Trakoshis
 # organizations:
 # - name: Laboratory of Autism and Neurodevelopmental Disorders
 #   url: "https://sites.google.com/site/mvlombardo/"
-# role: PhD Student
+role: PhD Student
 social:
 # - icon: envelope
 #   icon_pack: fas

@@ -1,23 +1,40 @@
 ---
+# Display name
+name: Natasha Bertelsen
+
+# username
 authors:
 - natashabertelsen
+
+# primary user of the site
+superuser: false
+
+# Role/position
+role: PhD Student
+
+# Organizations/Affiliations
+organizations:
+- name: Laboratory of Autism and Neurodevelopmental Disorders 
+  url: "https://sites.google.com/site/mvlombardo/"
+
+# Short bio
 bio:
-education:
-email: "natbertelsen@gmail.com"
+
+# interests
 interests:
 - Neuroimaging
 - Connectomics
 - Gene Expression
 - MATLAB
-name: Natasha Bertelsen
-# organizations:
-# - name: Laboratory of Autism and Neurodevelopmental Disorders
-#   url: "https://sites.google.com/site/mvlombardo/"
-# role: PhD Student
+
+# education
+education:
+
+# email
+email: "natbertelsen@gmail.com"
+
+# social 
 social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: '#contact'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/natannbertelsen
@@ -27,7 +44,14 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/natbertelsen
-superuser: true
+# - icon: envelope
+#   icon_pack: fas
+#   link: '#contact'
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
+# Organizational group for People widget
 user_groups:
 - Grad Students
 ---

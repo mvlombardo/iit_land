@@ -20,7 +20,7 @@ name: Michael Lombardo
 # organizations:
 # - name: Laboratory of Autism and Neurodevelopmental Disorders
 #   url: "https://sites.google.com/site/mvlombardo/"
-# role: Principal Investigator
+role: Principal Investigator
 social:
 - icon: envelope
   icon_pack: fas
