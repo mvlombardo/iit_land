@@ -1,7 +1,9 @@
 ---
 authors:
 - veronicamandelli
-bio:
+
+bio: I am a PhD student at the Laboratory for Autism and Neurodevelopmental Disorders (LAND) under the supervision of Dr. Michael Lombardo. I got my BSc as a Childhood Neuro and Psychomotor Therapist at the University of Milano and I got a MSc in Cognitive Science at CIMeC (Centre for Mind and Brain Sciences) at the University of Trento. My research main interests are neurodevelopmental disorders, with a specific focus on Autism and ADHD, and childhood movement development. My PhD goal is to better understand how motor behaviour is related and influence autism spectrum heterogeneity.
+
 education:
 email: "veronica.mandelli93@gmail.com"
 interests:
@@ -30,3 +32,8 @@ superuser: true
 user_groups:
 - Grad Students
 ---
+
+Veronica Mandelli
+===================
+
+I am a PhD student at the Laboratory for Autism and Neurodevelopmental Disorders (LAND) under the supervision of Dr. Michael Lombardo. I got my BSc as a Childhood Neuro and Psychomotor Therapist at the University of Milano and I got a MSc in Cognitive Science at CIMeC (Centre for Mind and Brain Sciences) at the University of Trento. My research main interests are neurodevelopmental disorders, with a specific focus on Autism and ADHD, and childhood movement development. My PhD goal is to better understand how motor behaviour is related and influence autism spectrum heterogeneity.
